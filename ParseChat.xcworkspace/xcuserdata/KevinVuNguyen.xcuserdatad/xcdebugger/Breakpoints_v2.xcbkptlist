@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParseChat/ChatViewController.swift"
+            timestampString = "541055257.143157"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseChat.ChatViewController.__deallocating_deinit"
+                  moduleName = "ParseChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KevinVuNguyen/Desktop/SwiftApps/ParseChat/ParseChat/ChatViewController.swift"
+                  timestampString = "541055257.279138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseChat.ChatViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParseChat.ChatViewController"
+                  moduleName = "ParseChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KevinVuNguyen/Desktop/SwiftApps/ParseChat/ParseChat/ChatViewController.swift"
+                  timestampString = "541055257.288154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseChat.ChatViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParseChat.ChatViewController"
+                  moduleName = "ParseChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KevinVuNguyen/Desktop/SwiftApps/ParseChat/ParseChat/ChatViewController.swift"
+                  timestampString = "541055257.293136"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseChat.ChatViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParseChat.ChatViewController&gt;"
+                  moduleName = "ParseChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KevinVuNguyen/Desktop/SwiftApps/ParseChat/ParseChat/ChatViewController.swift"
+                  timestampString = "541055257.298921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseChat.ChatViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParseChat.ChatViewController&gt;"
+                  moduleName = "ParseChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KevinVuNguyen/Desktop/SwiftApps/ParseChat/ParseChat/ChatViewController.swift"
+                  timestampString = "541055257.302416"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
